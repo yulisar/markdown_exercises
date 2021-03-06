@@ -18,5 +18,4 @@ test1
 ---
 ***
 test2
-
-and after a horizontal rule.
+..and after a horizontal rule.
