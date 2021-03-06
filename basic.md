@@ -7,6 +7,7 @@
 ***
 ## Images
 My favourite search engine:
+
 ![Duck Duck Go](https://homepages.cae.wisc.edu/~ece533/images/airplane.png)
 ***
 ## Links
