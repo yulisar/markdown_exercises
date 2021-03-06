@@ -3,12 +3,25 @@
 ***
 
 ***
+## Escaping Characters
+
+* Ini adalah list
++ Ini adalah list
+
+
+\* Ini adalah * dengan backslash
+`+` Ini adalah + dengan back tick
+
 
 ***
 ## Images
 My favourite search engine:
 
 ![Duck Duck Go](https://homepages.cae.wisc.edu/~ece533/images/airplane.png)
+
+Flower:
+![Gstatic](https://www.gstatic.com/webp/gallery3/1.png)
+
 ***
 ## Links
 My favourite search engine is [Duck Duck Go](https://duckduckgo.com)
