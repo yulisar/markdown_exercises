@@ -1,5 +1,22 @@
 # MarkDown Basic
+
+***
+
+***
+
+***
+## Images
+My favourite search engine:
+![Duck Duck Go](https://homepages.cae.wisc.edu/~ece533/images/airplane.png)
+***
+## Links
+My favourite search engine is [Duck Duck Go](https://duckduckgo.com)
+
+## dengan title:
+My favourite search engine is [Duck Duck Go](https://duckduckgo.com "The best  search engine for privacy")
+
 ---
+
 ### Code
 At the command prompt, type `nano`
 
