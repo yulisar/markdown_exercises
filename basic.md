@@ -60,6 +60,7 @@ use enter twice to exit block quote
 
 ...
 test
+
 ---
 ##Emphasis
 Ini adalah **teks tebal**.
